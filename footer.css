@@ -1,0 +1,65 @@
+footer{
+  background-color: rgb(14, 0, 30);
+  padding: 50px 50px 25px 50px;
+}
+
+.copyright{
+  color: rgba(255, 255, 255, 0.491);
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
+.footer-container{
+  box-sizing: border-box;
+  color: rgba(255, 255, 255, 0.491);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 60px;
+}
+
+footer h4{
+  border: none;
+  color: white;
+  font-size: 15px;
+}
+
+footer p a{
+  text-decoration: none;
+  font-size: 12x;
+  color: rgba(255, 255, 255, 0.491);
+  transition: all 0.3s ease;
+}
+
+footer p a:hover{
+  color: rgb(144, 0, 255);
+}
+
+.contact-container svg{
+  width: 20px;
+}
+
+.address-contact, .phone-contact, .email-contact{
+  display: flex;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.social-icon{
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  padding: 5px;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.social-icon img{
+  width: 30px;
+  background-color: aliceblue;
+  border-radius: 25%;
+  padding: 5px;
+}
