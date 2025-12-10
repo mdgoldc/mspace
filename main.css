@@ -470,7 +470,7 @@
 .team-pod-container img{
   background: linear-gradient(rgba(144, 0, 255, 0.7), rgb(144, 0, 255));
   width: 100%;
-  height: 1350px;
+  height: 150px;
   object-fit: cover;
   padding: 15px;
   margin-bottom: 20px;
@@ -701,4 +701,5 @@ form button:hover{
   width: 100%;
   height: 280px;
 }
+
 
