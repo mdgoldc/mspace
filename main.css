@@ -458,6 +458,12 @@
   color: white;
   width: 50px;
 }
+
+  .single-pod-list, team-pod-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
   
 }
 
@@ -708,6 +714,7 @@ form button:hover{
   width: 100%;
   height: 280px;
 }
+
 
 
 
