@@ -549,7 +549,7 @@
 
 @media (max-width:768px){
   #testimonial{
-    padding: 75px 30px;
+    padding: 75px 15px;
   }
 }
 
@@ -701,3 +701,4 @@ form button:hover{
   width: 100%;
   height: 280px;
 }
+
