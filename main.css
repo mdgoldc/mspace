@@ -1,5 +1,5 @@
 #section1{
-  background-image: linear-gradient(rgba(144, 0, 255, 0.7), rgb(144, 0, 255)),url("image/bg1.jpeg");
+  background-image: linear-gradient(rgba(144, 0, 255, 0.7), rgb(144, 0, 255)),url("bg1.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -676,3 +676,4 @@ form button:hover{
   width: 100%;
   height: 280px;
 }
+
