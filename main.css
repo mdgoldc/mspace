@@ -101,7 +101,7 @@
 @media (max-width: 768px){
 
   #section1{
-    padding: 50px;
+    padding: 10px;
   }
 
   #section1 .hero{
@@ -682,5 +682,6 @@ form button:hover{
   width: 100%;
   height: 280px;
 }
+
 
 
